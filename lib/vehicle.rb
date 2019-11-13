@@ -6,5 +6,10 @@ class Vehicle
   end 
   
   def go 
-    "vrrrrrrrroom!"
+    "vrrrrrrroom!"
+  end 
+  
+  def fill_up_tank
+    "filling up!"
+  end 
 end
